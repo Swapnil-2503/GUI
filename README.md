@@ -6,3 +6,5 @@
 3. ExpenseManagement
 4. TicTacToe Game
 5. TO-DO-LIST
+6. BMI Calculator
+7. Canvas Draw
