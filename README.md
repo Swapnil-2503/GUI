@@ -1,4 +1,4 @@
-# GUI apps made by Java
+# GUI apps made by Java && PYTHON
 ## List of projects
 
 1. Text Editor
